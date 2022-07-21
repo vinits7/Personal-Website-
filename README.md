@@ -1,2 +1,2 @@
-# Personal-Website-
-HTML and CSS
+# My-Personal-Website-
+My-Site using HTML and CSS
